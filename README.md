@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/stark-banner.jpg" width="100%" alt="Stark - Frieren Beyond Journey's End" />
+<img src="assets/stark-banner.gif" width="100%" alt="Stark - Frieren Beyond Journey's End" />
 
 # Chiramy ♡
 
@@ -28,11 +28,20 @@ I'm interested in software development, mobile applications, and game developmen
 
 ## ✧ Tech Stack & Tools
 
-**Languages**
+## ✧ Tech Stack & Tools
+
+**Programming Languages**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Development Tools**
 
@@ -40,6 +49,12 @@ I'm interested in software development, mobile applications, and game developmen
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**3D Modelling & Digital Design**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Autodesk 3ds Max](https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 ## ♡ Featured Projects
 
