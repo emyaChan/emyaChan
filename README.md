@@ -28,8 +28,6 @@ I'm interested in software development, mobile applications, and game developmen
 
 ## ✧ Tech Stack & Tools
 
-## ✧ Tech Stack & Tools
-
 **Programming Languages**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat-square&logo=kotlin&logoColor=white)
